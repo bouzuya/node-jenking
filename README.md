@@ -30,6 +30,7 @@ Alive monitoring for Jenkins.
 ## Badges
 
 [![Dependencies status][david-dm-badge]][david-dm]
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 [david-dm]: https://david-dm.org/bouzuya/node-jenking
 [david-dm-badge]: https://david-dm.org/bouzuya/node-jenking.png

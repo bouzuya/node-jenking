@@ -1,0 +1,6 @@
+{
+  "name": "jenking",
+  "description": "Alive monitoring for Jenkins",
+  "repository": "https://github.com/bouzuya/node-jenking",
+  "keywords": ["jenkins"]
+}
