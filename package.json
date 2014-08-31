@@ -1,0 +1,27 @@
+{
+  "name": "jenking",
+  "version": "1.0.0",
+  "description": "alive monitoring for Jenkins.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bouzuya/node-jenking.git"
+  },
+  "keywords": [
+    "jenkins"
+  ],
+  "author": "bouzuya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bouzuya/node-jenking/issues"
+  },
+  "homepage": "https://github.com/bouzuya/node-jenking",
+  "dependencies": {
+    "express": "^4.8.7",
+    "request": "^2.40.0"
+  }
+}
