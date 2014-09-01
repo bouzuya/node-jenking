@@ -1,6 +1,6 @@
 {
   "name": "jenking",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "alive monitoring for Jenkins.",
   "main": "index.js",
   "scripts": {
